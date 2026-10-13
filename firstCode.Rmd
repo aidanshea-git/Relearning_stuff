@@ -1,0 +1,22 @@
+---
+title: "firstCode"
+output: pdf_document
+---
+
+```{r}
+
+cat("Wow it feels kinda good to be back\nTime for a fresh start");
+print("Lets do this");
+
+x <- 5;
+y <- 5;
+
+x * y
+```
+
+```{r}
+
+
+
+```
+
