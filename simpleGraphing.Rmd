@@ -1,5 +1,10 @@
 ---
 title: "simpleGraphing"
-output: html_document
+output: pdf_document
 ---
+
+This is just an r markdown file used to help catch me up in data vis. Learning how to use 
+github for first time tbh.
+
+Hello World
 
