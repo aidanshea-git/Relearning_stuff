@@ -34,7 +34,6 @@ starwars %>%
   filter(!complete.cases(.)) %>%
   drop_na(height)
 
-hello?
 
 
 ## Replacing na's with "None" for hair color
